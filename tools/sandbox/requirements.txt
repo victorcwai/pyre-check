@@ -8,7 +8,7 @@ dataclasses-json==0.5.2
 decorator==4.4.2
 fb-sapp==0.2.8
 Flask==1.1.2
-Flask-Cors==3.0.9
+Flask-Cors==4.0.1
 Flask-GraphQL==2.0.1
 graphene==2.1.8
 graphene-sqlalchemy==2.3.0
